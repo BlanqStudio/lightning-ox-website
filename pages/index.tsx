@@ -19,7 +19,7 @@ const Home: NextPage = () => {
           <title>LightningOx</title>
           <meta
             name="description"
-            content="The place to talk about the validity of projects."
+            content="Lightning Ox, web3 game developers"
            />
         </Head>
 
