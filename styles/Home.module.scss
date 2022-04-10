@@ -1,0 +1,30 @@
+$sm: 24rem; //384px
+$sm2: 29.75rem; //476px
+$sm3: 39.8rem; //636.8px
+$sm4: 42rem; //672px
+
+$md: 46.8rem; //748.8px
+$md2: 48rem; //768px
+
+$lg: 50rem; //800px
+$lg2: 54.5rem; //872px
+
+$xl: 60rem; //960px
+$xl2: 67rem; //1072px
+
+$xxl: 75rem; //1200px
+
+
+
+.container {
+  padding: 0 2rem;
+}
+
+.main {
+  padding: 4rem 0;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
